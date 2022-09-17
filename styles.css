@@ -1,0 +1,21 @@
+h1,
+h2 {
+    font-family: Sans-serif;
+    color: pink;
+    text-align: center;
+    font-size: 32px;                
+}
+
+
+a {
+    font-size: 20px;
+}
+
+p {
+    color: black;
+    font-family: Fantasy;
+}
+
+li {
+    color: rgb(10,100,100)
+}
